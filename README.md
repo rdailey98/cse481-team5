@@ -1,5 +1,30 @@
-## Welcome to GitHub Pages
+## Team 5: Project Name Here
 
+## About
+Likely will move this section to be its own page
+
+## Proposal
+Likely will move this section to be its own page
+
+### Week 1 + 2
+
+### Week 3
+
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+### Week 9
+
+### Week 10
+
+### Github Pages Info
 You can use the [editor on GitHub](https://github.com/rdailey98/cse481-team5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
